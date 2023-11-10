@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Is beef ill?</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Is beef current ill?" />
         <p className="description">
-          beefy baeith is currently lay up in bed, ill as a bofa can be
+           <span className="code">Yes</span> beefy baeith is currently lay up in bed, ill as a bofa can be
         </p>
       </main>
 
