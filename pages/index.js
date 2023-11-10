@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Is beef current ill?" />
         <p className="description">
-          <span style="color: red;">Yes</span> beefy baeith is currently lay up in bed, ill as a bofa can be
+          beefy baeith is currently lay up in bed, ill as a bofa can be
         </p>
       </main>
 
