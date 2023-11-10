@@ -23,6 +23,7 @@ code {
   background: #fafafa;
   border-radius: 5px;
   padding: 0.75rem;
+  color: red;
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
 }
 
