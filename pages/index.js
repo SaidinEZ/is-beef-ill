@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Is beef current ill?" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <span style="color: red;">Yes</span> beefy baeith is currently lay up in bed, ill as a bofa can be
         </p>
       </main>
 
