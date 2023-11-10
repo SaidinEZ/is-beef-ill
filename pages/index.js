@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Is beef current ill?" />
+        <Header title="Is beef currently ill?" />
         <p className="description">
            <span className="code">Yes</span> beefy baeith is currently lay up in bed, ill as a bofa can be
         </p>
